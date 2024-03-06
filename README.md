@@ -1,8 +1,18 @@
-# React + Vite
+# Projeto bike-now
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+Este projeto e uma aplicação web que utiliza tecnologias como React, Vite, HOOK-FORMS, HTML, CSS, JavaScript, consumo de arquivos JSON, rotas e LocalStorage.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Como utilizar?
+
+1 - No terminal (cmd), (não pode ser powershell) usar os seguintes comandos:
+
+- npm install
+
+- npm run dev
+
+
+
+
+
